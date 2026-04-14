@@ -93,7 +93,7 @@ For GitHub Actions builds, add these secrets to your repository:
 
 ### Q: How do I download and install Meld?
 
-Go to the [latest release](https://github.com/FrancescoGrazioso/Meld/releases/latest) and download the **Meld.apk** file. Open it on your Android device — you may need to allow "Install from unknown sources" in your phone's settings when prompted. You do **not** need to download the source code files.
+Go to the  and download the **Meld.apk** file. Open it on your Android device — you may need to allow "Install from unknown sources" in your phone's settings when prompted. You do **not** need to download the source code files.
 
 ### Q: I logged into Spotify but my playlists aren't showing
 
